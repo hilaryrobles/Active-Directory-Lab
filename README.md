@@ -24,6 +24,7 @@ gave me a full picture of both the offensive and defensive sides of cybersecurit
 | Windows 10 | Target machine |
 | Kali Linux | Attacker machine for simulating brute force attacks |
 | Ubuntu Server | Splunk server for log collection and analysis |
+| Active Directory | Centralized domain management and user authentication |
 | Splunk | SIEM, log analysis and threat detection |
 | Splunk Universal Forwarder | Collecting and forwarding logs to Splunk |
 | Sysmon | Endpoint monitoring and logging |
